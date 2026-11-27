@@ -16,6 +16,7 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 <!-- Afegiu ací una línia per pantalla, per exemple:
 - [Calendari](pantalles/04-calendari.md)
 -->
+- [Pròxima activitat](pantalles/01-proxima-activitat.md)
 - [Confirmar l’assistència](pantalles/04-confirmar-assistencia.md)
 
 - [Actuació sense connexió](pantalles/02-sense-connexio.md)
