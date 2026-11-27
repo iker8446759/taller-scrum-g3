@@ -17,3 +17,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - [Calendari](pantalles/04-calendari.md)
 -->
 
+- [Actuació sense connexió](pantalles/02-sense-connexio.md)
