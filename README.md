@@ -16,8 +16,16 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 <!-- Afegiu ací una línia per pantalla, per exemple:
 - [Calendari](pantalles/04-calendari.md)
 -->
+- [Pròxima activitat](pantalles/01-proxima-activitat.md)
+- [Confirmar l’assistència](pantalles/04-confirmar-assistencia.md)
 
 - [Actuació sense connexió](pantalles/02-sense-connexio.md)
+- [Motiu de l’absència](pantalles/08-motiu-absencia.md)
+- [Gestió de la banda](pantalles/05-gestio-banda.md)
 - [Calendari](pantalles/06-calendari.md)
 
 - [Enquestes de la junta](pantalles/12-enquestes-junta.md)
+- [Dies per a la pròxima actuació](pantalles/03-dies_proxima_actuacio.md)
+- [Autobús per a les actuacions](pantalles/09-autobus-actuacions.md)
+- [Avisos de la junta](pantalles/07-avisos-junta.md)
+- [Inici de l’app](pantalles/11-app-bonica.md)
