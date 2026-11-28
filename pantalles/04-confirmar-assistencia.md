@@ -5,7 +5,7 @@
 
 Vindràs al pròxim assaig?
 
-[Vaig](#vaig) · [No vaig](#no-vaig)
+[Vaig](#vaig) · [No vaig](08-motiu-absencia.md)
 
 ## Vaig
 **Resposta triada:** Vaig a l’assaig.
