@@ -21,3 +21,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 
 - [Actuació sense connexió](pantalles/02-sense-connexio.md)
 - [Motiu de l’absència](pantalles/08-motiu-absencia.md)
+- [Perfil del músic](pantalles/10-perfil-music.md)
