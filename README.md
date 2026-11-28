@@ -20,3 +20,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - [Actuació sense connexió](pantalles/02-sense-connexio.md)
 - [Calendari](pantalles/06-calendari.md)
 
+- [Enquestes de la junta](pantalles/12-enquestes-junta.md)
