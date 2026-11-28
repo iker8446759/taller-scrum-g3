@@ -21,3 +21,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 
 - [Actuació sense connexió](pantalles/02-sense-connexio.md)
 - [Dies per a la pròxima actuació](pantalles/03-dies_proxima_actuacio.md)
+- [Avisos de la junta](pantalles/07-avisos-junta.md)
