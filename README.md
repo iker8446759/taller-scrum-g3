@@ -21,3 +21,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 
 - [Actuació sense connexió](pantalles/02-sense-connexio.md)
 - [Gestió de la banda](pantalles/05-gestio-banda.md)
+- [Dies per a la pròxima actuació](pantalles/03-dies_proxima_actuacio.md)
