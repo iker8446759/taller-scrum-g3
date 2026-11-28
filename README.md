@@ -24,3 +24,4 @@ Equip: `gN` (canvieu-ho pel número del vostre equip)
 - [Calendari](pantalles/06-calendari.md)
 
 - [Dies per a la pròxima actuació](pantalles/03-dies_proxima_actuacio.md)
+- [Autobús per a les actuacions](pantalles/09-autobus-actuacions.md)
